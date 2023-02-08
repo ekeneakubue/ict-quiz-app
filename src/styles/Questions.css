@@ -1,0 +1,18 @@
+ul li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.questions{
+    min-height: 62vh;
+    padding-top: 3rem;        
+}
+
+.hrr{
+    background-color: rgb(52, 51, 51);
+}
+
+.option{
+    padding: 0;
+    margin-bottom: 0px;
+}

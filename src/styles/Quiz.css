@@ -1,0 +1,33 @@
+.title{
+    padding-top: 3rem;
+    padding-bottom: 3px;
+}
+
+.questions{
+    min-height: 62vh;
+    /* padding-top: 3rem; */
+    font-size: larger;    
+}
+
+.nos{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+.prev{
+    width: 5rem;
+    border-radius: 5px;
+}
+
+.next{
+    width: 5rem;
+    border-radius: 5px;
+}
+
+.no{
+    width: 2rem;
+    margin: 3px;
+    color: black;
+    border-radius: 5px;
+}

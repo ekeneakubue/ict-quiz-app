@@ -1,0 +1,39 @@
+.title{
+    padding-top: 3rem;
+}
+
+.instruction{
+    min-height: 53vh;
+    padding-top: 3rem;
+    font-size: larger;
+}
+
+.form{
+    margin-top: 4rem;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+    min-width: 50vw ;
+}
+
+.start-btn{       
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: green;
+    padding: 5px;
+    margin-top: 3rem;
+    margin-bottom: 2.9rem;
+    padding-bottom: 4px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
